@@ -38,7 +38,7 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 
 <br/>
 
-<h1 align="center">What am I up to</h1>
+<h1 align="center">What am I up to?🤔💭</h1>
 
 - 🌱 I’m currently learning **Kotlin Android Dev, Python and JavaScript**
 
