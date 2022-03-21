@@ -34,15 +34,17 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 <img height="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-<h3 align="center">And still growing...</h3>
+<h3 align="center">And still growing... 😁✌️</h3>
+
+
 
 <br/>
 
 <h1 align="center">What am I up to?🤔💭</h1>
 
-- 🌱 I’m currently learning **Kotlin Android Dev, Python and JavaScript**
+- 🌱 I’m currently learning **Kotlin Android Dev, Python and JavaScript** 🏫
 
-- 📝 Check out my website if you have time: [**www.charleslemmert.com**](https://charleslemmert.com/)
+- 📝 Check out my website if you have time: [**www.charleslemmert.com**](https://charleslemmert.com/) 🧐🙃
 
 <!--- - 📫 How to reach me **info@charleslemmert.com**-->
 
