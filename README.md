@@ -60,5 +60,5 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 
 
 <h1 align="center">My Stats</h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Alien&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
