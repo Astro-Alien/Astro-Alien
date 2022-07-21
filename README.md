@@ -42,7 +42,7 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 
 <h1 align="center">What am I up to?🤔💭</h1>
 
-- 🌱 I’m currently learning **Kotlin Android Dev, Python and JavaScript** 🏫
+- 🌱 I’m currently learning **Kotlin Android Dev, Python, JavaScript and React Native** 🏫
 
 - 📝 Check out my website if you have time: [**www.charleslemmert.com**](https://charleslemmert.com/) 🧐🙃
 
