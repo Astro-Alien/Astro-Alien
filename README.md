@@ -44,8 +44,6 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
 
 - 🌱 I’m currently learning **Kotlin Android Dev, Python, JavaScript and React Native** 🏫
 
-- 📝 Check out my website if you have time: [**www.charleslemmert.com**](https://charleslemmert.com/) 🧐🙃
-
 <!--- - 📫 How to reach me **info@charleslemmert.com**-->
 
 <h3>&nbsp; &nbsp;Contact Me:</h3>
