@@ -52,10 +52,6 @@ I'm a third-year student at the Cape Peninsula University of Technology and I am
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-- <a href="https://www.linkedin.com/in/charles-lemmert-5982b51a9/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 <h1 align="center">My Stats</h1>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />
