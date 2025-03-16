@@ -43,8 +43,8 @@
 
 <h3>&nbsp; &nbsp;Contact Me:</h3>
 
-- <a href="https://www.instagram.com/charleslemmert/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+- <a href="https://www.linkedin.com/in/charles-lemmert-5982b51a9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B36EbV6%2FOT26kzWEN8xMOjw%3D%3D">
+  <img align="left" alt="Charles's LinkedIn" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 
 
