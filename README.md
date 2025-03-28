@@ -37,7 +37,7 @@
 
 <h1 align="center">What am I up to?🤔💭</h1>
 
-- 🌱 I’m currently learning **Kotlin Android Dev, Python, JavaScript and React Native** 🏫
+- 🌱 I’m currently learning **C#, Python, JavaScript, GraphQL, React.js and Vue.js** 🏫
 
 <!--- - 📫 How to reach me **info@charleslemmert.com**-->
 
