@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - I strive for success in everything I do.
-- 💻 Passionate about building fullstack scalable web apps with  **React**, **Next.js**, **TypeScript**, and **modern backends**.
+- 💻 Passionate about building scalable fullstack applications with  **React**, **Next.js**, **TypeScript**, and **modern backends**.
 - 🧠 Always learning, growing, and sharing along the way.
 - 🛠️ Crafting applications with a focus on **performance**, **developer experience**, and **clean UI**.
 
