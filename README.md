@@ -1,53 +1,59 @@
-<p align="center">
-  <img height="190"  src="https://github.com/AsteroAlien/AsteroAlien/blob/main/icon.png" alt="animated"/>
-</p>
-<br/>
-<br/>
+# 👋 Hey, I'm Charles👨‍💻
 
-<h1 align="center">Hi there, Im Charles! 👋</h1>
-<h4  align="center">
-&nbsp;I have a passion for software development and strive for success in everything I do. In my free time I do Freelance web development and design and aim to put in 100% in every project I work on. 😊
-</h4>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Software+Engineer;" alt="Typing SVG" />
+</div>
 
-<br/>
+---
 
-<h1 align="center">My Skill Set 👨🏽‍💻 </h1>
-<br/>
+## 🚀 About Me
 
-<p align="center">
-<img height="40" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img height="40" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-</p>
+- I strive for success in everything I do.
+- 💻 Passionate about building fullstack scalable web apps with  **React**, **Next.js**, **TypeScript**, and **modern backends**.
+- 🧠 Always learning, growing, and sharing along the way.
+- 🛠️ Crafting applications with a focus on **performance**, **developer experience**, and **clean UI**.
 
-<p align="center">
-<img height="40" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img height="40" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img height="40" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
+---
 
-<p align="center">
-<img height="40" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
+## 🧠 My Favorite Stacks
 
-<h3 align="center">And still growing... 😁✌️</h3>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
-<br/>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<h1 align="center">What am I up to?🤔💭</h1>
+---
 
-- 🌱 I’m currently learning **C#, Python, JavaScript, GraphQL, React.js and Vue.js** 🏫
+## 📈 Alternative GitHub
 
-<!--- - 📫 How to reach me **info@charleslemmert.com**-->
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Astero-Alien)
 
-<h3>&nbsp; &nbsp;Contact Me:</h3>
+---
 
-- <a href="https://www.linkedin.com/in/charles-lemmert-5982b51a9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B36EbV6%2FOT26kzWEN8xMOjw%3D%3D">
-  <img align="left" alt="Charles's LinkedIn" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
-</a>
+## 📈 GitHub Stats
 
+### Alternative Github Account Stats
+![Astero-Alien's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AsteroAlien&show_icons=true&theme=radical)
 
-<h1 align="center">My Stats</h1>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical" />
-<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Alien&layout=compact" />
+### Current Github Account Stats
+![Astro-Alien's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Astro-Alien&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/charles-lemmert-5982b51a9)
